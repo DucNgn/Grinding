@@ -1,0 +1,15 @@
+{
+   "compilerOptions": {
+    "lib": ["es6", "DOM"],
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "./build",
+    "sourceMap": false
+  },
+   "files": [
+    "1550.three-consecutive-odds.ts",
+    "1396.find-lucky-integer.ts"
+   ]
+}
