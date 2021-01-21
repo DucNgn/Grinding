@@ -1,2 +1,2 @@
 # Algorithm Time:
-+ leetcode problems
++ leetcode problems from [SCS Algorithm Time](https://scs.ecaconcordia.ca/)
